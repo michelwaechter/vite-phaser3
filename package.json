@@ -1,0 +1,35 @@
+{
+  "name": "vite-phaser3",
+  "version": "0.1.0",
+  "description": "Template for working with Phaser in a viteJS 3 project.",
+  "author": "Michel Wächter <info@mwaechter.dev>",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.55.2",
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3",
+    "vite-plugin-webpackchunkname": "^0.2.0"
+  },
+  "keywords": [
+    "vite",
+    "phaser",
+    "phaser3",
+    "javascript",
+    "game engine",
+    "game development",
+    "vue"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michelwaechter/vite-phaser3"
+  }
+}
